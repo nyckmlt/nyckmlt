@@ -1,6 +1,5 @@
 ## Olá! Eu sou a Dominyck Malta
 - 🌱 Estudando Javascript.
-- 📫 Contate-me no email: nyckmaltadev@gmail.com
 - 😄 Pronouns: ela/dela
 
 <div>
