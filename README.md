@@ -1,4 +1,4 @@
-## Olá! Eu sou a Dominyck Malta
+## Oie :) Eu sou a Nyck!
 - 🌱 Estudando Javascript.
 - 😄 Pronouns: ela/dela
 
