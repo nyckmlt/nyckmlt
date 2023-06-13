@@ -1,5 +1,5 @@
 ## Oie :) Eu sou a Nyck!
-- 🌱I'm currently studiyng Javascript.
+- 🌱I'm currently studying Javascript.
 - 😄 Pronouns: ela/dela
 
 <div style="display: inline_block"> <br>
